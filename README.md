@@ -1,6 +1,7 @@
 # Arnold’s Cat Map
 
-**Alumna:** Frieda María Ortíz López  
+**Alumna:** Frieda María Ortiz López  
+**Lenguaje:** Java
 **Docente:** Dr. Jesús Agustín Aboytes González  
 **Asignatura:** Matemáticas III  
 **Semestre:** Tercer Semestre  
